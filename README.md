@@ -1,3 +1,6 @@
+I am passionate about Python and Natural Language Processing (NLP). 
+Feel free to reach out to me for any inquiries or collaborations.
+
 <p align="left">
   <a href="https://www.linkedin.com/in/alexey-kopytov-33750762/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
